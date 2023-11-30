@@ -1,5 +1,10 @@
 streamlit
 pandas
-scikit-learn
+sklearn
 seaborn
 matplotlib
+random
+torch
+base64
+plotly
+
